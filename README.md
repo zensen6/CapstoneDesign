@@ -75,6 +75,22 @@ __npx tsc --init__
     cd backend
     npm run dev
 ```
+### 주요 페이지 설명
+* 메인페이지
+![](./img/img1.png)
+![](./img/img2.png)
+
+
+* 챗봇 상담 페이지
+![](./img/img4.png)
+![](./img/img3.png)
+
+* 추천 영상 페이지
+![](./img/img5.png)
+
+* 싱담소 정보 페이지
+![](./img/img6.png)
+
 
 
 
