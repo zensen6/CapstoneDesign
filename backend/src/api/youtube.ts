@@ -17,8 +17,6 @@ function response(res:any, text:any){
 	return new Promise(function(resolve, reject){
 		request.post(options, function callback(err: any, httpResponse : any, body : any) {
 			if(err){
-				console.log("err");
-				console.log(err);
 				reject(err);
 			}else{
 
