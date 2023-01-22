@@ -85,6 +85,10 @@ __npx tsc --init__
 * ##### 싱담소 정보 페이지
 ![](./img/img6.png)
 
+### 프로젝트 기여자
+* [kiwoongyoon](https://github.com/kiwoongyoon)
+* [easter423](https://github.com/easter423)
+* [brudenell](https://github.com/brudenell)
 
 
 
