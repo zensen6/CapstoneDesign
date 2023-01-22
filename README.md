@@ -1,18 +1,12 @@
 나만의 스트레스 해소 플랫폼
 -----
-💻 사용한 스택 💻
+#### 💻 사용한 스택 💻
 
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black"/>
-<img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor="/>
-<img alt="React.js" src ="https://img.shields.io/badge/React.js-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
-<img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=black"/>
-<img alt="aws" src ="https://img.shields.io/badge/Aws-232F3E.svg?&style=for-the-badge&logo=Amazon aws&logoColor=black"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black"/> <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor="/> <img alt="React.js" src ="https://img.shields.io/badge/React.js-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> <img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=black"/> <img alt="aws" src ="https://img.shields.io/badge/Aws-232F3E.svg?&style=for-the-badge&logo=Amazon aws&logoColor=black"/>
 
 
 -----
-프로젝트 설명
+## 프로젝트 설명
 
 * 한국인들은 평상시 지나친 스트레스를 안고 살고 있다.
 * 별다른 스트레스 해소방법 없이 스트레스를 쌓으며 살면, 우울증을 앓기도 한다.
@@ -34,7 +28,7 @@
 * '우울' 증세가 심하다고 여겨지는 경우(90% 이상 지표인 경우) 인근 심리상담소 정보 제공
  
 -----
-### 프로젝트 사용방법
+## 프로젝트 사용방법
 
 __npm init__
 
@@ -75,20 +69,20 @@ __npx tsc --init__
     cd backend
     npm run dev
 ```
-### 주요 페이지 설명
-* 메인페이지
+## 주요 페이지 설명
+* ##### 메인페이지
 ![](./img/img1.png)
 ![](./img/img2.png)
 
 
-* 챗봇 상담 페이지
+* ##### 챗봇 상담 페이지
 ![](./img/img4.png)
 ![](./img/img3.png)
 
-* 추천 영상 페이지
+* ##### 추천 영상 페이지
 ![](./img/img5.png)
 
-* 싱담소 정보 페이지
+* ##### 싱담소 정보 페이지
 ![](./img/img6.png)
 
 
